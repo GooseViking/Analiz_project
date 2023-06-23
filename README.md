@@ -7,8 +7,8 @@
 - создан dashboard на основе полученных данных.
 - проект был запущен на платформе pythonanywhere.
 
-Ссылка на сайт : http://gooseviking.pythonanywhere.com
-Cсылка на данные : https://disk.yandex.ru/d/DBG6tSzV-6ftFg
+Ссылка на сайт : http://gooseviking.pythonanywhere.com .
+Cсылка на данные : https://disk.yandex.ru/d/DBG6tSzV-6ftFg .
 
 # Установка
 
